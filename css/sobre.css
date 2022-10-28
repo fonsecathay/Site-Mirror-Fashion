@@ -83,3 +83,12 @@ footer .container{
     float: left;
     margin-left: 25px;
 }
+p::first-letter{
+    font-weight: bold;
+}
+h1 + p{
+    text-indent: 0;
+}
+p::first-line{
+    font-variant: small-caps;
+}
