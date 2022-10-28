@@ -158,10 +158,10 @@ footer .container{
     height: 20px;
     text-indent: -9999px;
 }
-.menu-opcoes a:hover {
+.menu-opcoes a: hover {
     color:#007DC6;
 }
-.menu-opcoes a:active {
+.menu-opcoes a: active {
     color:#867DC6
 }
 .menu-departamentos li ul{
