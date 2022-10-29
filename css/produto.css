@@ -95,31 +95,23 @@ fieldset{
 	max-width: 36em;
 }
 table{
-	border-spacing: 0 2em;
-	border-collapse: separate;
+    border-spacing: 0.2em;
+    border-collapse: separate;
 }
 thead{
-	background-color: #999;
+    background-color: #999;
 }
 thead th{
-	font-weight: bold;
-	padding: 0.3em 1em;
-	text-align: center;
+    font-weight: bold;
+    padding: 0.3em 1em;
+    text-align: center;
 }
 td{
-	padding: 0.3em;
+    padding: 0.3em;
 }
 tr:nth-child(2n){
-	background-color: #CCC;
+    background-color: #CCC;
 }
 td:first-child{
-	font-style: italic;
-}
-.produto-black{
-	background-color: #F2F2F2;
-	margin-top: 1em;
-	border-top: 2px solid #CCC;
-}
-.cores label img{
-	border: 2px solid #CCC;
+    font-style: italic;
 }
