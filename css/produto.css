@@ -62,7 +62,7 @@ label[for=azul]::after{
 }
 .comprar{
     background: #91BD3C;
-    border: none;
+    border: outset;
     color: #333;
     font-size: 1.4em;
     text-transform: uppercase;
