@@ -68,8 +68,8 @@ label[for=azul]::after{
     text-transform: uppercase;
     box-shadow: 0 1px 3px #777;
     display: block;
-    padding: 0.4em 1em;
-    margin: 1em 0;
+    padding: 0.5em 1em;
+    margin: 0.5em 0;
 }
 .cores label:hover::after{
     border: 6px solid rgba(0, 0, 0, 0.1);
