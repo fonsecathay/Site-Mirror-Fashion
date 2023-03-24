@@ -158,14 +158,6 @@ footer .container{
     height: 20px;
     text-indent: -9999px;
 }
-.menu-opcoes{
-    display:inline-block;
-    position: relative;
-    color:#ffffff;
-    font-family: sans-serif;
-    font-size: 20px;
-    transition:0.4s all ease;
-}
 .menu-opcoes a:hover {
     color:#007DC6;
 }
@@ -290,3 +282,4 @@ footer .container{
     border-bottom: 15px solid transparent;
     border-top: 15px solid transparent;
     }
+
